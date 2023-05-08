@@ -1,5 +1,4 @@
 .backdrop {
-  cursor: pointer;
   position: fixed;
   top: 0;
   left: 0;
@@ -11,7 +10,8 @@
 
 .modal {
   position: fixed;
-  top: 20vh;
+  top: 1.5vh;
+  margin-bottom: 4rem;
   left: 5%;
   width: 90%;
   background-color: white;
